@@ -1,0 +1,26 @@
+{
+  "microservicePath": "../MicroServiceApp",
+  "microserviceName": "MicroServiceApp",
+  "clientRootFolder": "MicroServiceApp",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "nom",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "prenom",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "tel",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "Personne",
+  "changelogDate": "20210709130338"
+}
